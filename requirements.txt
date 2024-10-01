@@ -1,0 +1,9 @@
+azure-keyvault
+azure-identity
+tqdm
+python-dotenv
+text_unidecode
+azure-ai-formrecognizer
+langchain_openai
+azure-ai-documentintelligence
+langchain_community
