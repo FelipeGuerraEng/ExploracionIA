@@ -7,3 +7,5 @@ azure-ai-formrecognizer
 langchain_openai
 azure-ai-documentintelligence
 langchain_community
+azure-storage-blob
+python-dotenv
